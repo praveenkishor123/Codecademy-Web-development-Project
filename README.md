@@ -1,5 +1,4 @@
-Codecademy-Web-development-Project
-==================================
+## Description
 
 This is my project based on the learning from Codecademy Web-development course.
 
